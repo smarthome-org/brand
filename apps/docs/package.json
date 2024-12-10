@@ -10,7 +10,7 @@
     "build:animation": "node scripts/animation-support.js"
   },
   "dependencies": {
-    "@primer/gatsby-theme-doctocat": "^4.6.3",
+    "@primer/gatsby-theme-doctocat": "^5.1.1",
     "@primer/octicons-react": "^19.8.0",
     "@primer/react": "^35.1.0",
     "color2k": "^2.0.0",
